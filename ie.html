@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>请升级您的浏览器</title>
+<style type="text/css">
+html,body{background:#d1dfe3}
+.ubody{margin:auto;background:url(/images/ie/ie6_bg.jpg);height:130px;width:256px;padding-top:340px;}
+.ubody a{display:block;margin:auto;}
+.ubody a.y1{background:url(/images/ie/ie6_link.jpg);width:119px;height:25px;margin-bottom:25px;}
+.ubody a.y2{background:url(/images/ie/ie6_btn.jpg);width:222px;height:48px;}
+</style>
+<script type="text/javascript">
+ var Sys = {};
+var ua = navigator.userAgent.toLowerCase();
+var patt1 = new RegExp("msie [6.0|7.0]");
+if(!patt1.test(ua))
+	window.location="/";
+</script>
+</head>
+
+<body>
+
+<div class="ubody">
+	<a href="http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie" class="y1"></a>
+	<a href="http://www.google.cn/intl/zh-CN/chrome/browser/" class="y2"></a>
+</div>
+
+
+</body>
+</html>

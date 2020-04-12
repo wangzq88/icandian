@@ -1,0 +1,700 @@
+a:2:{i:0;a:2:{i:0;s:40761:"<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta property="qc:admins" content="00110467276131641166375" /> 
+<meta property="wb:webmaster" content="359c8b4e60c650f5" />
+<title>iCanDian-网上餐店、网上订餐、叫外卖</title>
+<!-- Bootstrap -->
+<link href="/assets/bootstrap/css/bootstrap.css" type="text/css" rel="stylesheet"/>
+<link href="/css/style.css" type="text/css" rel="stylesheet"/>
+<script src="/assets/jquery/jquery.min.js"></script>
+<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="/assets/jquery-validation/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/assets/index.js"></script>
+</head>
+
+<body>
+<div id="wrap">
+     <###dynamic-0###>    <!-- #header -->
+    <div id="main" class="container">
+    <div class="row">
+                <div class="span12">
+                    <div class="banner mtb10"><img src="/uploads/shop/1/1365324718.gif" alt="pic" width="960"/></div>
+                    <!--/banner-->
+                    <div class="ms_wrap">
+                          
+ <div class="hd bgl_c"><h3 class="clearfix pl10 pr10"><a href="javascript:void(0);" onclick="collectionShop(this,1594);"
+class="fr btn btn-small mt5"><i class="icon-heart"></i> 收藏</a><ul class="breadcrumb fl" style="padding:0;background-color:transparent;margin:0;"><li><a href="/"><span class="icon-home"></span></a> <span class="divider">/</span></li><li class="active">小罇政1594</li></ul></h3></div>
+                        <div class="bd1 bg_f pb15 clearfix">
+                            <div class="w60p fl">
+                                <dl class="tip_ct p15">
+                                    <dt class="tip_hd fl w40p ">
+                                        <img src="/uploads/shop/1/1365581381.png" class="big_pic" />
+<!--                                        <p class="vm"><img src="/images/start_l.png" /><img src="/images/start_l.png" /><img src="/images/start_l.png" /><img src="/images/start_l.png" /><img src="/images/start_g.png" /><span class="r3 pl5"><strong class="Georgia f30">4</strong> 分</span>
+                                        </p>-->
+                                    </dt>                            
+                                    <dd class="tip_bd fr w60p">
+                                        <h4 class="f16 lh180 fb">小罇政1594</h4>
+                                        <p><strong>菜系：</strong><span>日韩料理</span></p>
+<!--                                        <p><strong>配送范围：</strong>到金网电脑商城 30元。</p>
+                                        <p><strong>起送价：</strong> 30元。</p>-->
+                                        <p><strong>营业时间：</strong>09:30～20:30</p>
+                                        <p><strong>最佳订餐：</strong>10:00～11:00 17:00～18:00</p>
+                                        <p><strong>地址信息：</strong>广州市天河区天河北路181号祥龙花园首层</p>
+                                     	<p><strong>餐厅简介：</strong>尽享无果界创意美食文化</p>
+                                    </dd>
+                                </dl>
+                            </div>
+                            <div class="w40p fr">
+                                <div class="store_des_info clearfix">
+                                    
+                                       <p class="lh180"><strong>公告：</strong>1.订餐满20元起送
+2.价格、品种如有变动，以餐厅当日价目为准3.请于收到食品1小时内食用</p>           
+                                       <p class="lh180"><strong>温馨提示：</strong>本餐厅订餐量大，为避免高峰期，请于10：30前预订，谢谢合作！</p>
+                                                                              <p class="lh180"><strong>留言板：</strong><abbr title="对商家的反馈可以在这里提出"><a href="/shop_comment_1594.html">进入</a></abbr></p>
+                                       
+                                </div>                        	
+                            </div>
+                        </div>                        <!--/ 商家基本信息-->
+                        <div class="hd bgl_c mt10">
+                            <h3 class="clearfix pl10 pr10">                              
+                                <strong class="fb fl">餐店菜单</strong>
+                            </h3>
+                            <!--/菜单排序-->
+                        </div>
+                        <div class="bd1 bg_f ptb10 clearfix">
+                        	<div class="pl5 pr5">
+                                                                                        <ul class="nav nav-tabs" id="myTab">
+                                                                	                                  <li class="active" title=""><a href="#categories_id_218">韩式料理</a></li>
+                                  	                                                                                                      	                                  <li  title=""><a href="#categories_id_1218">泰式料理</a></li>
+                                  	                                                                                                      	                                  <li  title=""><a href="#categories_id_2218">台式料理</a></li>
+                                  	                                                                                                      	                                  <li  title=""><a href="#categories_id_3218">港式料理</a></li>
+                                  	                                                                                                      	                                  <li  title=""><a href="#categories_id_4218">中华料理</a></li>
+                                  	                                                                                                      </ul>
+                                                                                        <div class="tab-content" style="overflow:visible;">
+                                                                  	                                      	                                  <div class="tab-pane active" id="categories_id_218">
+                                  	                                    	 <ul class="thumbnails" style="margin-left:0;padding:0 44px; min-height:1011px;">
+		      
+		<li class="w200" style="margin-left:0;">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1363798034.jpg" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title="美味没得选"/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">清酒煮花甲</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-info">新</span>&nbsp;<span class="badge badge-important">辣</span>				</p>
+				<p class="pl15 attribs_text_1051_0">供应： 6月1日—10日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">28.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','1051','清酒煮花甲','28.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_1051_0" class="btn btn-small  yu-ding-disabled disabled " food_id="1051" food_price="28.0" is_hot="1"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830575.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">鳗汁烧帆立贝</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_1052_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">28.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','1052','鳗汁烧帆立贝','28.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_1052_0" class="btn btn-small  yu-ding-disabled disabled " food_id="1052" food_price="28.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830542.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">芝士炸虾卷</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-important">辣</span>				</p>
+				<p class="pl15 attribs_text_1053_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">48.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','1053','芝士炸虾卷','48.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_1053_0" class="btn btn-small  yu-ding-disabled disabled " food_id="1053" food_price="48.0" is_hot="1"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830484.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">碳烧狮鱼头</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-important">辣</span>				</p>
+				<p class="pl15 attribs_text_1054_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">28.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','1054','碳烧狮鱼头','28.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_1054_0" class="btn btn-small  yu-ding-disabled disabled " food_id="1054" food_price="28.0" is_hot="1"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	</ul>			
+                                                                      </div>
+                                  		                                   	                                  	                                     	                                  <div class="tab-pane " id="categories_id_1218">
+                                  	                                    	 <ul class="thumbnails" style="margin-left:0;padding:0 44px; min-height:1011px;">
+	  
+	  
+	  
+	  
+		      
+		<li class="w200" style="margin-left:0;">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830302.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">招牌炸豆腐</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-important">辣</span>				</p>
+				<p class="pl15 attribs_text_5051_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">18.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','5051','招牌炸豆腐','18.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_5051_0" class="btn btn-small  yu-ding-disabled disabled " food_id="5051" food_price="18.0" is_hot="1"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830265.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">泰式炸鸡块</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-important">辣</span>				</p>
+				<p class="pl15 attribs_text_5052_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">28.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','5052','泰式炸鸡块','28.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_5052_0" class="btn btn-small  yu-ding-disabled disabled " food_id="5052" food_price="28.0" is_hot="1"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830234.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">咖哩牛腩猪扒饭</h5>
+                                       
+		<p class="pl15">标签： 		<span class="badge badge-warning">牌</span>		</p>
+				<p class="pl15 attribs_text_5053_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">35.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','5053','咖哩牛腩猪扒饭','35.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_5053_0" class="btn btn-small  yu-ding-disabled disabled " food_id="5053" food_price="35.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830200.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">黄金带子烧</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_5054_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">48.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','5054','黄金带子烧','48.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_5054_0" class="btn btn-small  yu-ding-disabled disabled " food_id="5054" food_price="48.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	</ul>			
+                                                                      </div>
+                                  		                                   	                                  	                                     	                                  <div class="tab-pane " id="categories_id_2218">
+                                  	                                    	 <ul class="thumbnails" style="margin-left:0;padding:0 44px; min-height:1011px;">
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+		      
+		<li class="w200" style="margin-left:0;">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1363801588.jpg" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">蛋包饭</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_9051_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">25.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','9051','蛋包饭','25.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_9051_0" class="btn btn-small  yu-ding-disabled disabled " food_id="9051" food_price="25.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830160.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">照烧鸡扒</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_9052_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">32.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','9052','照烧鸡扒','32.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_9052_0" class="btn btn-small  yu-ding-disabled disabled " food_id="9052" food_price="32.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830122.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">铁板烧牛肉</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_9053_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">38.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','9053','铁板烧牛肉','38.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_9053_0" class="btn btn-small  yu-ding-disabled disabled " food_id="9053" food_price="38.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1364834488.jpg" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">台湾辣子鸡</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_9054_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">28.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','9054','台湾辣子鸡','28.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_9054_0" class="btn btn-small  yu-ding-disabled disabled " food_id="9054" food_price="28.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	</ul>			
+                                                                      </div>
+                                  		                                   	                                  	                                     	                                  <div class="tab-pane " id="categories_id_3218">
+                                  	                                    	 <ul class="thumbnails" style="margin-left:0;padding:0 44px; min-height:1011px;">
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+		      
+		<li class="w200" style="margin-left:0;">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830043.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">芒果西米露</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_13051_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">12.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','13051','芒果西米露','12.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_13051_0" class="btn btn-small  yu-ding-disabled disabled " food_id="13051" food_price="12.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830005.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">杂果雪糕三宝捞</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_13052_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">18.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','13052','杂果雪糕三宝捞','18.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_13052_0" class="btn btn-small  yu-ding-disabled disabled " food_id="13052" food_price="18.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365829963.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">吉列猪扒</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_13053_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">32.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','13053','吉列猪扒','32.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_13053_0" class="btn btn-small  yu-ding-disabled disabled " food_id="13053" food_price="32.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365829919.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">香菇牛肉泡饭</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_13054_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">32.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','13054','香菇牛肉泡饭','32.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_13054_0" class="btn btn-small  yu-ding-disabled disabled " food_id="13054" food_price="32.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	</ul>			
+                                                                      </div>
+                                  		                                   	                                  	                                     	                                  <div class="tab-pane " id="categories_id_4218">
+                                  	                                    	 <ul class="thumbnails" style="margin-left:0;padding:0 44px; min-height:1011px;">
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+		      
+		<li class="w200" style="margin-left:0;">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365830623.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">泡菜肥牛炒拉面</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-info">新</span>&nbsp;<span class="badge badge-important">辣</span>				</p>
+				<p class="pl15 attribs_text_17755_0">供应： 周二、四</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">48.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17755','泡菜肥牛炒拉面','48.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17755_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17755" food_price="48.0" is_hot="1"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1363801529.jpg" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">高丽菜牛肉包</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-info">新</span>&nbsp;				</p>
+				<p class="pl15 attribs_text_17756_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">48.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17756','高丽菜牛肉包','48.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17756_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17756" food_price="48.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1363802028.jpg" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">红蟹籽烧秋刀鱼</h5>
+                                       
+		<p class="pl15">标签： <span class="badge badge-info">新</span>&nbsp;				</p>
+				<p class="pl15 attribs_text_17757_0">供应： 周一、三、五</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">48.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17757','红蟹籽烧秋刀鱼','48.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17757_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17757" food_price="48.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1363801711.jpg" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">韩国泡菜</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_17758_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">48.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17758','韩国泡菜','48.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17758_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17758" food_price="48.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="margin-left:0;">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365829877.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">山珍刺身</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_17759_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">32.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17759','山珍刺身','32.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17759_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17759" food_price="32.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365829834.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">锡纸豆浆青花鱼</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_17760_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">38.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17760','锡纸豆浆青花鱼','38.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17760_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17760" food_price="38.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1363802463.jpg" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">麻辣澳洲游龙锅</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_17761_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">28.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17761','麻辣澳洲游龙锅','28.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17761_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17761" food_price="28.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+		      
+		<li class="w200" style="">
+	<div class="thumbnail">
+				<img src="/uploads/shop/1/1365829785.png" alt="" style="width:160px;height:160px;" class="img-polaroid mt5" title=""/>
+				<h5 class="lh30 fb tc f16" style="overflow:hidden;height:30px;">辣味带子烧</h5>
+                      		<p class="pl15">标签： 无</p>
+				<p class="pl15 attribs_text_17762_0">供应： 每日</p>
+		<p class="pl15">价格： <span class="Georgia f30 r3">48.0</span> 元</p>
+		<p class="pl15 pt5 pb5 clearfix"><a class="btn btn-small" onclick="collectionFood(this,'1594','小罇政1594','17762','辣味带子烧','48.0','0')"><i class="icon-star"></i> 收藏</a>&nbsp;&nbsp;<a id="food_id_17762_0" class="btn btn-small  yu-ding-disabled disabled " food_id="17762" food_price="48.0" is_hot="0"  is_package="0"><i class="icon-check"></i> 预订</a></p>
+	</div>
+</li>
+		   
+	</ul>			
+                                                                      </div>
+                                  		                                   	                                  	                                  
+                                </div>                            
+                            </div>   
+                                                 	
+                        </div>                        
+                        
+                            <div class="dinner_car span4">
+                                <div class="hd bgl_c">
+                                    <h3 class="clearfix plr10">
+                                    <span class="btn-group fl mt8_ie7"><a class="btn btn-small" id="resize_shop_car"><span class="icon-resize-horizontal"></span></a><a class="btn btn-small" onclick="refreshCartAction(identity_flag)"><span class="icon-refresh"></span></a><a class="btn btn-small" onclick="deleteShopFoodAction(this,identity_flag)"><span class="icon-trash"></span></a></span>
+                                    <strong class="fb fr"><span class="icon-shopping-cart"></span>购餐车</strong>
+                                    </h3>
+                                </div>
+                                <div class="bd bd2 scrollbar" style="max-height:550px;overflow-y:scroll;">
+                                	<div class="p10" id="shopping-cart-item">
+                                        <p class="tr mt10"><a href="javascript:void(0);" class="btn btn-small" onclick="if(loginPopoverFilter('您必须登录后才能进入结算喔')) location.href='/index.php?r=user/checking';"><span class="icon-tasks"></span> 结算</a></p>                                        
+                                    </div>
+                                </div>                        
+                            </div>
+<script type="text/javascript">
+$("#resize_shop_car").toggle(
+	function() {
+		$("div.dinner_car").animate({
+			right:0	
+		},500)			
+	},
+	function() {
+		$("div.dinner_car").animate({
+			right:"-15%"	
+		},500)			
+	}	
+);      
+</script>                                       
+                    </div>
+
+                  
+                </div>
+            </div>
+<script type="text/javascript">
+function checkTime(i)
+{
+	if(i < 10) {
+		i = "0" + i;
+	}
+	return i;
+}
+function isShow(food) {
+	var week = new Date().getDay();//返回值是 0（周日） 到 6（周六） 之间的一个整数。
+	week = week == 0 ? 7:week;
+	var show = false;//显示预订按钮,默认为否
+	switch(food.flag) {
+		case 1:
+			show = true;
+			break;
+		case 2:
+			var attribs_list = food.attribs.split(',');
+			for(var j = 0;j < attribs_list.length; j++) {
+				if(attribs_list[j] == week) {
+					show = true;
+				}
+			}
+			break;
+		case 3:
+			if (food.attribs) {
+				var tmp = food.attribs.split('-');
+				var date = new Date().getDate();
+				if (date >= tmp[0] && date <= tmp[1])
+					show = true;
+			}
+			break;
+	}
+	show = food.is_book > 0 ? show:false;
+	return show;	
+}
+
+var food_list = new Array(24);
+		food_list[0] = {'food_id':1051,'flag':3,'attribs':'1-10','is_book':1,'is_package':'0','food_price':28.0,'food_ids':''};
+		food_list[1] = {'food_id':1052,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':28.0,'food_ids':''};
+		food_list[2] = {'food_id':1053,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':48.0,'food_ids':''};
+		food_list[3] = {'food_id':1054,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':28.0,'food_ids':''};
+		food_list[4] = {'food_id':5051,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':18.0,'food_ids':''};
+		food_list[5] = {'food_id':5052,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':28.0,'food_ids':''};
+		food_list[6] = {'food_id':5053,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':35.0,'food_ids':''};
+		food_list[7] = {'food_id':5054,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':48.0,'food_ids':''};
+		food_list[8] = {'food_id':9051,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':25.0,'food_ids':''};
+		food_list[9] = {'food_id':9052,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':32.0,'food_ids':''};
+		food_list[10] = {'food_id':9053,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':38.0,'food_ids':''};
+		food_list[11] = {'food_id':9054,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':28.0,'food_ids':''};
+		food_list[12] = {'food_id':13051,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':12.0,'food_ids':''};
+		food_list[13] = {'food_id':13052,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':18.0,'food_ids':''};
+		food_list[14] = {'food_id':13053,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':32.0,'food_ids':''};
+		food_list[15] = {'food_id':13054,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':32.0,'food_ids':''};
+		food_list[16] = {'food_id':17755,'flag':2,'attribs':'2,4','is_book':1,'is_package':'0','food_price':48.0,'food_ids':''};
+		food_list[17] = {'food_id':17756,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':48.0,'food_ids':''};
+		food_list[18] = {'food_id':17757,'flag':2,'attribs':'1,3,5','is_book':1,'is_package':'0','food_price':48.0,'food_ids':''};
+		food_list[19] = {'food_id':17758,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':48.0,'food_ids':''};
+		food_list[20] = {'food_id':17759,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':32.0,'food_ids':''};
+		food_list[21] = {'food_id':17760,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':38.0,'food_ids':''};
+		food_list[22] = {'food_id':17761,'flag':1,'attribs':'1,3,5','is_book':1,'is_package':'0','food_price':28.0,'food_ids':''};
+		food_list[23] = {'food_id':17762,'flag':1,'attribs':'','is_book':1,'is_package':'0','food_price':48.0,'food_ids':''};
+function checkCronAction() {
+	var shop = {"shop_opening_hours":"09:30-14:00 14:00-20:30","flag":1,"ordering_time":'{"1":"10:00-11:00","2":"17:00-18:00"}'};
+	var today = new Date();
+	var h = today.getHours();
+	var m = today.getMinutes();
+	// add a zero in front of numbers<10
+	h = checkTime(h);
+	m = checkTime(m);
+	now = h + ":" + m;
+	//上午和下午的营业时间
+	list = shop.shop_opening_hours.split(' ');
+	//上午的营业时间段
+	var tmp = list[0].split('-');
+	//下午的营业时间
+	var tmp1 = list[1].split('-');
+	//上午和下午订餐时间
+	ordering_time = shop.ordering_time.split(' ');
+	//显示现在订餐时间
+	if (now <= tmp[1]) {//如果现在处于上午的营业时间，显示上午的订餐时间
+		now_ordering_time = ordering_time[0];
+	} else {
+		now_ordering_time = ordering_time[1];
+	}
+	var show = false;
+	for(var i = 0;i < food_list.length; i++) 
+	{
+		//处于上午营业时间段和处于下午营业时间段
+		if((now >= tmp[0] && now < tmp[1]) || (now >= tmp1[0] && now < tmp1[1])) 
+		{
+			if(food_list[i].is_package == 0) 
+			{
+				show = isShow(food_list[i]);
+			} 
+			else 
+			{
+				var food_ids = food_list[i].food_ids.split(',');
+				var text = '';
+				for(var j = 0;j < food_ids.length; j++) 
+				{
+					for(var k = 0;k < food_list.length; k++) 
+					{
+						if (food_ids[j] == food_list[k].food_id) 
+						{
+							show = show == false ? false:isShow(food_list[k]);
+							text = show ? '供应：有提供':'供应：没提供';
+							break;
+						}
+					}					
+				}
+				$('.attribs_text_'+food_list[i].food_id+"_"+food_list[i].is_package).text(text);				
+			}								
+		}
+		else 
+		{
+			show = false;
+		}
+		if(show) 
+		{
+			$("#food_id_"+food_list[i].food_id+"_"+food_list[i].is_package).removeClass("disabled yu-ding-disabled yu-ding").addClass("yu-ding");
+			$("#food_id_"+food_list[i].food_id+"_"+food_list[i].is_package).tooltip('destroy');			
+		} 
+		else 
+		{
+			$("#food_id_"+food_list[i].food_id+"_"+food_list[i].is_package).removeClass("disabled yu-ding").addClass("disabled");
+			$("#food_id_"+food_list[i].food_id+"_"+food_list[i].is_package).tooltip('destroy');
+			$("#food_id_"+food_list[i].food_id+"_"+food_list[i].is_package).tooltip({title:'此时间不接受订餐',placement:'top'});
+		}				
+	}
+					
+}
+setInterval('checkCronAction()',60000);
+checkCronAction();
+$('.carousel').carousel({
+  interval:false
+});
+
+$('#myTab a').click(function (e) {
+  e.preventDefault();
+  $(this).tab('show');
+})
+
+jQuery(function($) {
+	$(".img-polaroid").tooltip({placement:'top'});
+	$("body").delegate(".yu-ding","click",function() {
+		var food_id = $(this).attr('food_id');
+		var is_hot = $(this).attr('is_hot');
+		var is_package = $(this).attr('is_package');
+		var food_name = $(this).parent().prevAll('h5').text();
+		var food_price = $(this).attr('food_price');
+		var shop_id = '1594';
+		var shop_name = '小罇政1594';
+		var uid = identity_flag;
+		var food_item = new Shopping(0,food_id,food_name,1,is_hot,is_package,shop_id,food_price,shop_name,uid,0);
+		addItemAction(food_item);
+	});
+});
+</script>    </div>
+     <!-- #main -->
+        <div id="footer" class="container">
+            <dl class="footer_info span12">
+                <dd class="bot_links">
+                    <a href="javascript:void(0);" onClick="shopApply();">商家入驻</a> | <a href="/contact.html">联系我们</a> 
+                </dd>
+                <dd class="copyright">Copyright © 2013 iCanDian All Rights Reserved</dd>
+            </dl>
+        </div>
+        <!-- #footer -->    
+</div>    
+<script type="text/javascript" src="/assets/rsa/all.js"></script>
+</body>
+</html>";i:1;a:1:{i:0;a:3:{i:0;s:0:"";i:1;s:21:"renderDynamicInternal";i:2;a:2:{i:0;s:19:"renderDynamicHeader";i:1;a:0:{}}}}}i:1;O:23:"CChainedCacheDependency":3:{s:38:" CChainedCacheDependency _dependencies";O:10:"CTypedList":6:{s:17:" CTypedList _type";s:16:"ICacheDependency";s:9:" CList _d";a:1:{i:0;O:18:"CDbCacheDependency":9:{s:12:"connectionID";s:2:"db";s:3:"sql";s:51:"SELECT update_time FROM {{shop}} WHERE shop_id=1594";s:6:"params";N;s:23:" CDbCacheDependency _db";N;s:18:"reuseDependentData";b:0;s:23:" CCacheDependency _hash";N;s:23:" CCacheDependency _data";a:1:{s:11:"update_time";s:10:"1365581393";}s:14:" CComponent _e";N;s:14:" CComponent _m";N;}}s:9:" CList _c";i:1;s:9:" CList _r";b:0;s:14:" CComponent _e";N;s:14:" CComponent _m";N;}s:14:" CComponent _e";N;s:14:" CComponent _m";N;}}
