@@ -271,7 +271,7 @@ class SiteController extends Controller
 	public function actionAjaxLogin()
 	{
 		// collect user input data
-		if($_POST)
+		if(isset($_POST) && $_POST)
 		{
 			$model = new LoginForm;
 			$result = array('success' => false,'info' => '您输入的帐号或密码不正确，请重新输入。');

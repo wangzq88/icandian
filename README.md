@@ -1,64 +1,24 @@
-Yii Web Programming Framework
+这是一个订餐网站程序，用 Yii 1.1.12 构建，完成于 2014 年。
+关于 Yii 框架介绍，请查阅根目录下文件 README 。
+PHP 版本要求在 5.3 以上，5.6 以下，不适用于 7.0 
+不支持 IPV 6
+部署时以根目录作为域名的根目录，无法以 localhost 访问
 =============================
 
-Thank you for choosing Yii - a high-performance component-based PHP framework.
+idingcan.sql.zip   是数据库文件
+
+protected\config\main.php  数据库配置文件
+protected\extensions\weibo\config.php  微博登录配置文件
+protected\extensions\qq\comm\config.php  QQ 登录配置文件
 
 
-INSTALLATION
-------------
+=============================
 
-Please make sure the release file is unpacked under a Web-accessible
-directory. You shall see the following files and directories:
+前台用户登录：test001@qq.com 123456
 
-      demos/               demos
-      framework/           framework source files
-      requirements/        requirement checker
-      CHANGELOG            describing changes in every Yii release
-      LICENSE              license of Yii
-      README               this file
-      UPGRADE              upgrading instructions
+商家用户登录
+http://icandian.com/manage
+wangzhiqiang2012@gmail.com    123456
 
-
-REQUIREMENTS
-------------
-
-The minimum requirement by Yii is that your Web server supports
-PHP 5.1.0 or above. Yii has been tested with Apache HTTP server
-on Windows and Linux operating systems.
-
-Please access the following URL to check if your Web server reaches
-the requirements by Yii, assuming "YiiPath" is where Yii is installed:
-
-      http://hostname/YiiPath/requirements/index.php
-
-
-QUICK START
------------
-
-Yii comes with a command line tool called "yiic" that can create
-a skeleton Yii application for you to start with.
-
-On command line, type in the following commands:
-
-        $ cd YiiPath/framework                (Linux)
-        cd YiiPath\framework                  (Windows)
-
-        $ ./yiic webapp ../testdrive          (Linux)
-        yiic webapp ..\testdrive              (Windows)
-
-The new Yii application will be created at "YiiPath/testdrive".
-You can access it with the following URL:
-
-        http://hostname/YiiPath/testdrive/index.php
-
-
-WHAT's NEXT
------------
-
-Please visit the project website for tutorials, class reference
-and join discussions with other Yii users.
-
-
-
-The Yii Developer Team
-http://www.yiiframework.com
+管理员登录
+http://icandian.com/admin
